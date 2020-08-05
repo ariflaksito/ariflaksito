@@ -11,7 +11,7 @@
 - Data science
 
 ### 📫 How to reach me: 
-- [linkedin]( https://www.linkedin.com/in/ariflaksito/ )
+- [linkedin](https://www.linkedin.com/in/arif-laksito-384579129/)
 - [email](mailto:arif.laksito@amikom.ac.id)
 - [blog](https://blog.ariflaksito.net)
 
