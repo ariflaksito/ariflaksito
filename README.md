@@ -27,5 +27,8 @@ I hope you can find useful stuff here :wink:
 - [Dicoding - KADE Project](https://github.com/ariflaksito/footballite-kade)
 - [Dicoding - Android Jetpack pro](https://github.com/ariflaksito/android-jetpack-pro)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
