@@ -1,4 +1,6 @@
 # Hi there 👋
+I hope you can find useful stuff here 😉
+
 [![Repos Badge](https://badges.pufler.dev/repos/ariflaksito)](https://github.com/ariflaksito?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/ariflaksito/ariflaksito)](https://badges.pufler.dev)
 
@@ -19,7 +21,7 @@
 
 <!-- **ariflaksito/ariflaksito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I hope you can find useful stuff here :wink:
+### ☕ My popular repositories:
 - [RecSys code collection](https://github.com/ariflaksito/recsys)
 - [Sanbercode - Python Data Science](https://github.com/ariflaksito/sanbercode-data-science)
 - [Naive bayes code collection](https://github.com/ariflaksito/naive-bayes)
