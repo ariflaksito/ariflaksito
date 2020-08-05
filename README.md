@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**ariflaksito/ariflaksito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working as: 
+- Lecturer
+- Researcher
+- Sometimes Programmer
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning: 
+- Recommender system
+- Machine learning
+- Data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me: 
+- [linkedin]( https://www.linkedin.com/in/ariflaksito/ )
+- [email](mailto:arif.laksito@amikom.ac.id)
+- [blog](https://blog.ariflaksito.net)
+
+<!-- **ariflaksito/ariflaksito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+I hope you can find useful stuff here :wink:
+- [RecSys code collection](https://github.com/ariflaksito/recsys)
+- [Sanbercode - Python Data Science](https://github.com/ariflaksito/sanbercode-data-science)
+- [Naive bayes code collection](https://github.com/ariflaksito/naive-bayes)
+- [Neural network code collection](https://github.com/ariflaksito/neural-network)
+- [Learn Android programming](https://github.com/ariflaksito?tab=repositories&q=PAM&type=&language=)
+- [Dicoding - MADE Project](https://github.com/ariflaksito/movie-directory)
+- [Dicoding - KADE Project](https://github.com/ariflaksito/footballite-kade)
+- [Dicoding - Android Jetpack pro](https://github.com/ariflaksito/android-jetpack-pro)
+
+
+
