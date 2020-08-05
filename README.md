@@ -1,4 +1,6 @@
 # Hi there 👋
+[![Repos Badge](https://badges.pufler.dev/repos/ariflaksito)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/ariflaksito/ariflaksito)](https://badges.pufler.dev)
 
 ### 🔭 I’m currently working as: 
 - Lecturer
@@ -27,8 +29,6 @@ I hope you can find useful stuff here :wink:
 - [Dicoding - KADE Project](https://github.com/ariflaksito/footballite-kade)
 - [Dicoding - Android Jetpack pro](https://github.com/ariflaksito/android-jetpack-pro)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 
