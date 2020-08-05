@@ -1,5 +1,5 @@
 # Hi there 👋
-[![Repos Badge](https://badges.pufler.dev/repos/ariflaksito)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ariflaksito)](https://github.com/ariflaksito?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/ariflaksito/ariflaksito)](https://badges.pufler.dev)
 
 ### 🔭 I’m currently working as: 
