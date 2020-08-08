@@ -31,7 +31,9 @@ I hope you can find useful stuff here 😉
 - [Dicoding - KADE Project](https://github.com/ariflaksito/footballite-kade)
 - [Dicoding - Android Jetpack pro](https://github.com/ariflaksito/android-jetpack-pro)
 
+<!--
 ### :computer: My learning progress..
 ![Arif's github stats](https://github-readme-stats.vercel.app/api?username=ariflaksito&hide=contribs,issue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariflaksito&hide=html)
+-->
