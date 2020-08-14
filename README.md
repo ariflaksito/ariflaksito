@@ -1,10 +1,10 @@
 # Hi there 👋
 I hope you can find useful stuff here 😉
 
-<!--
+
 [![Repos Badge](https://badges.pufler.dev/repos/ariflaksito)](https://github.com/ariflaksito?tab=repositories)
 [![Visits Badge](https://badges.pufler.dev/visits/ariflaksito/ariflaksito)](https://badges.pufler.dev)
--->
+
 
 ### 🔭 I’m currently working as: 
 - Lecturer
