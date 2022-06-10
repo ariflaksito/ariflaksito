@@ -13,8 +13,7 @@ I hope you can find useful stuff here 😉
 
 ### 🌱 I’m currently learning: 
 - Recommender system
-- Machine learning
-- Data science
+- Natural Language Processing
 
 ### 📫 How to reach me: 
 - [linkedin](https://www.linkedin.com/in/arif-laksito-384579129/)
