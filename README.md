@@ -2,8 +2,8 @@
 I hope you can find useful stuff here 😉
 
 
-[![Repos Badge](https://badges.pufler.dev/repos/ariflaksito)](https://github.com/ariflaksito?tab=repositories)
-[![Visits Badge](https://badges.pufler.dev/visits/ariflaksito/ariflaksito)](https://badges.pufler.dev)
+![Follower Badge](https://img.shields.io/github/followers/ariflaksito)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ariflaksito.visitor-badge)
 
 
 ### 🔭 I’m currently working as: 
