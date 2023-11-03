@@ -3,7 +3,6 @@ I hope you can find useful stuff here 😉
 
 
 ![Follower Badge](https://img.shields.io/github/followers/ariflaksito)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ariflaksito.visitor-badge)
 
 
 ### 🔭 I’m currently working as: 
