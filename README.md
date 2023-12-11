@@ -11,8 +11,8 @@ I hope you can find useful stuff here 😉
 - Sometimes Programmer
 
 ### 🌱 I’m currently learning: 
-- Recommender system
-- Natural Language Processing
+- Information Retrieval (IR)
+- Natural Language Processing (NLP)
 
 ### 📫 How to reach me: 
 - [linkedin](https://www.linkedin.com/in/arif-laksito-384579129/)
@@ -21,7 +21,7 @@ I hope you can find useful stuff here 😉
 
 <!-- **ariflaksito/ariflaksito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### ☕ My popular repositories:
+### ☕ Popular repositories:
 - [RecSys code collection](https://github.com/ariflaksito/recsys)
 - [Sanbercode - Python Data Science](https://github.com/ariflaksito/sanbercode-data-science)
 - [Naive bayes code collection](https://github.com/ariflaksito/naive-bayes)
