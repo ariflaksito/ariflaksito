@@ -1,10 +1,6 @@
 # Hi there 👋
 I hope you can find useful stuff here 😉
 
-
-![Follower Badge](https://img.shields.io/github/followers/ariflaksito)
-
-
 ### 🔭 I’m currently working as: 
 - Lecturer
 - Researcher
