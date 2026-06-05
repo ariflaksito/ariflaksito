@@ -1,37 +1,9 @@
-<!--
-# Hi there 👋
-I hope you can find useful stuff here 😉
+# Hi 👋
 
-### 🔭 I’m currently working as: 
-- Lecturer
-- Researcher
-- Sometimes Programmer
+I'm a PhD student in Computer Science at the University of Sheffield.
 
-### 🌱 I’m currently learning: 
-- Information Retrieval (IR)
-- Natural Language Processing (NLP)
+### Interests
+- Information Retrieval
+- Natural Language Processing
 
-### 📫 How to reach me: 
-- [linkedin](https://www.linkedin.com/in/arif-laksito-384579129/)
-- [email](mailto:arif.laksito@amikom.ac.id)
-- [blog](https://blog.ariflaksito.net)
-
-<!-- **ariflaksito/ariflaksito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!--
-### ☕ Popular repositories:
-- [RecSys code collection](https://github.com/ariflaksito/recsys)
-- [Sanbercode - Python Data Science](https://github.com/ariflaksito/sanbercode-data-science)
-- [Naive bayes code collection](https://github.com/ariflaksito/naive-bayes)
-- [Neural network code collection](https://github.com/ariflaksito/neural-network)
-- [Learn Android programming](https://github.com/ariflaksito?tab=repositories&q=PAM&type=&language=)
-- [Dicoding - MADE Project](https://github.com/ariflaksito/movie-directory)
-- [Dicoding - KADE Project](https://github.com/ariflaksito/footballite-kade)
-- [Dicoding - Android Jetpack pro](https://github.com/ariflaksito/android-jetpack-pro)
-
-
-### :computer: My learning progress..
-![Arif's github stats](https://github-readme-stats.vercel.app/api?username=ariflaksito&hide=contribs,issue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariflaksito&hide=html)
--->
+Thanks for stopping by!
