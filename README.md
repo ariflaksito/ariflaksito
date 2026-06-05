@@ -1,3 +1,4 @@
+<!--
 # Hi there 👋
 I hope you can find useful stuff here 😉
 
@@ -17,6 +18,7 @@ I hope you can find useful stuff here 😉
 
 <!-- **ariflaksito/ariflaksito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<!--
 ### ☕ Popular repositories:
 - [RecSys code collection](https://github.com/ariflaksito/recsys)
 - [Sanbercode - Python Data Science](https://github.com/ariflaksito/sanbercode-data-science)
@@ -27,7 +29,7 @@ I hope you can find useful stuff here 😉
 - [Dicoding - KADE Project](https://github.com/ariflaksito/footballite-kade)
 - [Dicoding - Android Jetpack pro](https://github.com/ariflaksito/android-jetpack-pro)
 
-<!--
+
 ### :computer: My learning progress..
 ![Arif's github stats](https://github-readme-stats.vercel.app/api?username=ariflaksito&hide=contribs,issue)
 
